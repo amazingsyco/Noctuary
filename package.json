@@ -12,5 +12,11 @@
     "generator"
   ],
   "author": "Steve Streza",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "class.js": "0.0.1",
+    "gitane": "0.0.7",
+    "async": "0.1.x",
+    "mkdirp": "0.3.4"
+  }
 }
