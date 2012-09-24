@@ -1,0 +1,16 @@
+{
+  "name": "Noctuary",
+  "version": "0.0.1",
+  "description": "Static site generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "static",
+    "site",
+    "generator"
+  ],
+  "author": "Steve Streza",
+  "license": "BSD"
+}
