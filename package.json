@@ -17,6 +17,8 @@
     "class.js": "0.0.1",
     "gitane": "0.0.7",
     "async": "0.1.x",
-    "mkdirp": "0.3.4"
+    "mkdirp": "0.3.4",
+    "handlebars": "1.0.7",
+    "markdown": "0.4"
   }
 }
