@@ -19,6 +19,8 @@
     "async": "0.1.x",
     "mkdirp": "0.3.4",
     "handlebars": "1.0.7",
-    "markdown": "0.4"
+    "markdown": "0.4",
+    "moment": "1.7.x",
+    "ncp": "0.2.6"
   }
 }
