@@ -21,6 +21,7 @@
     "handlebars": "1.0.7",
     "markdown": "0.4",
     "moment": "1.7.x",
-    "ncp": "0.2.6"
+    "ncp": "0.2.6",
+    "node-sass": "0.2.4"
   }
 }
